@@ -35,6 +35,16 @@ Possible names: SlashSync (current), ZenshinSync
 ## Docs  
 [Docs at Notion](https://axiomatic-number-f0f.notion.site/SlashSync-Docs-16ccff81b50d807fa5c1cf0d3d07d8fa)  
 
+## Current Progress
+<img width="1502" alt="World" src="https://github.com/user-attachments/assets/9535dd9f-1594-4e00-b40f-54d7567dcdc2" />
+<img width="346" alt="Player and Enemy" src="https://github.com/user-attachments/assets/66c01bd9-ef27-4c84-a336-f245f6424688" />
+
+## Character Swap Prototype
+Clicking Left-Ctrl swaps between these three characters in order
+<img width="277" alt="Swap 1" src="https://github.com/user-attachments/assets/fd9461a6-07cb-43ee-9eb6-db4e96d6854a" />
+<img width="281" alt="Swap 2" src="https://github.com/user-attachments/assets/ad70bd61-ceaa-4cab-81a2-1a15918fe94b" />
+<img width="310" alt="Swap 3" src="https://github.com/user-attachments/assets/ac8165a0-463f-4ed9-adff-10a94854f645" />
+
 ## Contact  
 
 - **Developer**: Taha Rashid  
