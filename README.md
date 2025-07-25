@@ -1,6 +1,6 @@
 # SlashSync - 2D Hack n Slash Sidescroller  
 
-A fast-paced 2D hack n slash sidescroller game currently in development with Unity.  
+A fast-paced 2D hack n slash sidescroller game currently on hiatus, developed with Unity.  
 Possible names: SlashSync (current), SyncSlash, ZenshinSync
 
 ## Core Features (Planned)  
